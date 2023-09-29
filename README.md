@@ -23,3 +23,8 @@ It is secure, fast and powerful
 It has a huge community support (tens of millions of developers)
 Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
 As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
+
+
+# Some work Sample
+![Screenshot 2023-09-29 212321](https://github.com/srejonshuvo/JavaBasic/assets/51881295/85a0e3ed-74fe-4faf-be72-9eb9ea89bb01)
+![Screenshot 2023-09-29 212341](https://github.com/srejonshuvo/JavaBasic/assets/51881295/07e38010-4ce8-45d2-855d-ffaa2c0f283c)
